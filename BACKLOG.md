@@ -13,7 +13,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 | 01 | `py-task-cli` | Gerencia tarefas pelo terminal com SQLite | Sync opcional com Todoist, TUI com rich, export Markdown | S | ✅ |
 | 02 | `py-file-organizer` | Organiza arquivos por regras declarativas em YAML | Dry-run + undo das últimas N operações, watch mode | S | ✅ |
 | 03 | `py-image-batch` | Pipeline de resize/watermark/otimização em lote | Paralelismo com `ProcessPoolExecutor`, relatório HTML de ganho | M | ✅ |
-| 04 | `py-crypto-vault` | Cofre de arquivos por linha de comando (AES-256-GCM) | Derivação Argon2id, formato de arquivo documentado na spec | M | ⬜ |
+| 04 | `py-crypto-vault` | Cofre de arquivos por linha de comando (AES-256-GCM) | Derivação Argon2id, formato de arquivo documentado na spec | M | ✅ |
 | 05 | `py-scrape-kit` | Framework de scraping com retry, cache e rate-limit | Suporte a paginação via config, export CSV/JSON/SQLite | M | ⬜ |
 | 06 | `py-csv-profiler` | Perfil estatístico de CSV → relatório HTML | Detecção de tipos, outliers, sugestão de schema SQL | M | ⬜ |
 | 07 | `py-pdf-toolkit` | Merge, split, OCR e marca d'água de PDFs | OCR via Tesseract, monta PDF pesquisável a partir de scans | M | ⬜ |
