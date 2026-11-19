@@ -28,7 +28,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 | 11 | `flet-financas` | Controle financeiro pessoal | Categorização automática, gráficos, projeção de saldo | M | ✅ |
 | 12 | `flet-habitos` | Tracker de hábitos com streak | Calendário heatmap, notificações, export CSV | S | ✅ |
 | 13 | `flet-notes` | Notas em Markdown com busca | Busca full-text SQLite FTS5, sincronização opcional | M | ✅ |
-| 14 | `flet-kanban` | Kanban com drag & drop | Persistência SQLite, WIP limit, export board | M | ⬜ |
+| 14 | `flet-kanban` | Kanban com drag & drop | Persistência SQLite, WIP limit, export board | M | ✅ |
 | 15 | `flet-pomodoro` | Pomodoro com estatísticas | Modo "deep work", histórico de foco, gráfico semanal | S | ⬜ |
 | 16 | `flet-estoque` | Controle de estoque | Código de barras, alerta de mínimo, relatório de giro | M | ⬜ |
 | 17 | `flet-chat-local` | Cliente de chat para LLM local (Ollama) | Streaming de tokens, salvar conversas, system prompt editável | M | ⬜ |
