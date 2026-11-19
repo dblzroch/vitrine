@@ -17,7 +17,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 | 05 | `py-scrape-kit` | Framework de scraping com retry, cache e rate-limit | Suporte a paginação via config, export CSV/JSON/SQLite | M | ✅ |
 | 06 | `py-csv-profiler` | Perfil estatístico de CSV → relatório HTML | Detecção de tipos, outliers, sugestão de schema SQL | M | ✅ |
 | 07 | `py-pdf-toolkit` | PDF toolkit: merge, split, watermark | pypdf + reportlab, marca d'água girada 45° | M | ✅ |
-| 08 | `py-git-stats` | Analytics de repositórios git locais | Heatmap de commits, bus factor, churn por arquivo | M | ⬜ |
+| 08 | `py-git-stats` | Analytics de repositórios git locais | Heatmap de commits, bus factor, churn por arquivo | M | ✅ |
 | 09 | `py-net-scan` | Scanner de rede local com dashboard no terminal | Fingerprint de serviços, export para CSV, modo passivo | A | ⬜ |
 | 10 | `py-telegram-bot` | Bot de automação pessoal (lembretes, agenda, notas) | Persistência SQLite, agendador APScheduler, deploy Docker | M | ⬜ |
 
