@@ -34,7 +34,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 | 17 | `flet-chat-local` | Cliente de chat para LLM local (Ollama) | Streaming de tokens, salvar conversas, system prompt editável | M | ✅ |
 | 18 | `flet-crypto-panel` | Dashboard de cripto em tempo real | API pública, alertas de preço, gráfico com sparkline | M | ✅ |
 | 19 | `flet-pdv` | PDV / frente de caixa simples | Impressão de recibo, fechamento de caixa, multi-usuário | A | ✅ |
-| 20 | `flet-agenda` | Agenda de clientes (clínicas/salões) | Visão dia/semana, confirmação, financeiro por profissional | A | ⬜ |
+| 20 | `flet-agenda` | Agenda de clientes (clínicas/salões) | Visão dia/semana, confirmação, financeiro por profissional | A | ✅ |
 
 ## Bloco 3 — Django
 
