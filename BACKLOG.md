@@ -25,7 +25,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 
 | # | Nome | Pitch | Diferencial | Nível | Status |
 |---|------|-------|-------------|-------|--------|
-| 11 | `flet-financas` | Controle financeiro pessoal | Categorização automática, gráficos, projeção de saldo | M | ⬜ |
+| 11 | `flet-financas` | Controle financeiro pessoal | Categorização automática, gráficos, projeção de saldo | M | ✅ |
 | 12 | `flet-habitos` | Tracker de hábitos com streak | Calendário heatmap, notificações, export CSV | S | ⬜ |
 | 13 | `flet-notes` | Notas em Markdown com busca | Busca full-text SQLite FTS5, sincronização opcional | M | ⬜ |
 | 14 | `flet-kanban` | Kanban com drag & drop | Persistência SQLite, WIP limit, export board | M | ⬜ |
