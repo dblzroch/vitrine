@@ -19,7 +19,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 | 07 | `py-pdf-toolkit` | PDF toolkit: merge, split, watermark | pypdf + reportlab, marca d'água girada 45° | M | ✅ |
 | 08 | `py-git-stats` | Analytics de repositórios git locais | Heatmap de commits, bus factor, churn por arquivo | M | ✅ |
 | 09 | `py-net-scan` | Scanner de rede local com dashboard no terminal | Fingerprint de serviços, export para CSV, modo passivo | A | ✅ |
-| 10 | `py-telegram-bot` | Bot de automação pessoal (lembretes, agenda, notas) | Persistência SQLite, agendador APScheduler, deploy Docker | M | ⬜ |
+| 10 | `py-telegram-bot` | Bot de automação pessoal (lembretes, agenda, notas) | Persistência SQLite, agendador APScheduler, deploy Docker | M | ✅ |
 
 ## Bloco 2 — Python + Flet (apps desktop/mobile com UI)
 
