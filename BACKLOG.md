@@ -41,7 +41,7 @@ Legenda de nível: **S** = simples (1-2 dias) · **M** = médio (2-4 dias) · **
 | # | Nome | Pitch | Diferencial | Nível | Status |
 |---|------|-------|-------------|-------|--------|
 | 21 | `django-ecommerce` | Loja virtual completa | Carrinho em sessão, cupons, painel de vendas | A | ✅ |
-| 22 | `django-blog-cms` | CMS de blog em Markdown | Editor, tags, comentários moderados, sitemap/SEO | M | ⬜ |
+| 22 | `django-blog-cms` | CMS de blog em Markdown | Editor, tags, comentários moderados, sitemap/SEO | M | ✅ |
 | 23 | `django-helpdesk` | Help desk com tickets | SLA com prazo, anexos, histórico de status | A | ⬜ |
 | 24 | `django-crm` | CRM com pipeline de vendas | Kanban de oportunidades, atividades, previsão de receita | A | ⬜ |
 | 25 | `django-lms` | Plataforma de cursos | Aulas em vídeo, progresso, certificado em PDF | A | ⬜ |
